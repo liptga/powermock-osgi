@@ -4,6 +4,10 @@ Powermock is a popular mocking framework (https://code.google.com/p/powermock) w
 # How to use
 Simply add one of the desired features to your target platform using the latest update site.
 
+# How to build
+powermock-osgi> mvn clean install
+powermock-osgi/p2> mvn clean install
+
 # Latest Version
 The latest version is based on 1.5.6 Powermock. Update site: http://powermock-osgi.googlecode.com/svn/updateSite/1.5.6.0 . See the release notes.
 
